@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 HttpRunnerManager
 =================
 
@@ -178,14 +178,3 @@ MockServer：https://github.com/yinquanwang/MockServer
 因时间限制，平台可能还有很多潜在的bug，使用中如遇到问题，欢迎issue,
 如果任何疑问好好的建议欢迎github提issue, 或者可以直接加群(628448476)，反馈会比较快
 
-
-
-
-
-
-
-
-=======
-# HttpRunnerManager
-HttpRunnerManager完整的项目
->>>>>>> 28f1e0e91f8619757991c878eb34eae22e9131e8
